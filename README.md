@@ -2,9 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 
-![Status](https://img.shields.io/badge/Status-Active-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-green.svg)
 
-![License](https://img.shields.io/badge/License-Avadhesh-yellow.svg)
+![License](https://img.shields.io/badge/License-Avadhesh-DarkViolet.svg)
 
 ## Daily Log
 
