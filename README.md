@@ -1,6 +1,6 @@
 # 🌟🐍 30 Days of Python: A Journey to Mastery 🚀🗓️
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.12.3-blue.svg)
 
 ![Status](https://img.shields.io/badge/Status-Completed-green.svg)
 
