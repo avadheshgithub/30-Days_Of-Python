@@ -47,7 +47,6 @@
 | 30  | 2024-07-13 | Conclusions                 | [Day 30](https://github.com/avadheshgithub/30-Days_Of-Python) |
 
 
-
 ## Python Journey
 ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
