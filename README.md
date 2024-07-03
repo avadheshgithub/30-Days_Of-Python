@@ -6,7 +6,7 @@
 
 ![License](https://img.shields.io/badge/License-Avadhesh-DarkViolet.svg)
 
-##  # Progress
+##   # Progress
 
 ### Days Completed : 
 ![Progress](https://progress-bar.dev/30/?scale=30&title=Completed%20Days&width=500&color=babaca&suffix=%20/%2030)
